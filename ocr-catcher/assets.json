@@ -1,0 +1,15 @@
+[
+    {
+        "app": "aispyer",
+        "app_name": "AISpyer",
+        "app_website": "https://aispyer.com",
+        "app_base": "unknown",
+        "names": [
+            "System Update Service"
+        ],
+        "icons": [
+            "icons/aispyer/ic_launcher_round.png",
+            "icons/aispyer/ic_launcher.png"
+        ]
+    }
+]
