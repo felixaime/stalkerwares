@@ -4,12 +4,255 @@
         "app_name": "AISpyer",
         "app_website": "https://aispyer.com",
         "app_base": "unknown",
+        "dial": false,
         "names": [
             "System Update Service"
         ],
         "icons": [
             "icons/aispyer/ic_launcher_round.png",
             "icons/aispyer/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "alltracker",
+        "app_name": "All Tracker",
+        "app_website": "https://alltracker.org",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "SystemUpdater"
+        ],
+        "icons": [
+            "icons/alltracker/ic_launcher_round.png",
+            "icons/alltracker/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "androidmonitor",
+        "app_name": "Android Monitor",
+        "app_website": "https://www.androidmonitor.com",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "Standard Typing service"
+        ],
+        "icons": []
+    },
+    {
+        "app": "antitheftdroidweb",
+        "app_name": "AntiTheft Droid WEB",
+        "app_website": "http://www.antifurtodroid.com",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "AntiTheft Droid WEB"
+        ],
+        "icons": [
+            "icons/antitheftdroidweb/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "aspy",
+        "app_name": "A-Spy",
+        "app_website": "http://www.a-spy.com",
+        "app_base": "unknown",
+        "dial": "0000",
+        "names": [
+            "Settings"
+        ],
+        "icons": [
+            "icons/aspy/ic_launcher_round.png",
+            "icons/aspy/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "blurspy",
+        "app_name": "BlurSpy",
+        "app_website": "https://www.blurspy.com",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "Google Keyboard"
+        ],
+        "icons": [
+            "icons/blurspy/ic_launcher_round.png",
+            "icons/blurspy/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "catwatchful",
+        "app_name": "CatWatchFul",
+        "app_website": "https://www.catwatchful.com",
+        "app_base": "unknown",
+        "dial": "543210",
+        "names": [
+            "Settings"
+        ],
+        "icons": [
+            "icons/catwatchful/ic_launcher_round.png",
+            "icons/catwatchful/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "celltracker",
+        "app_name": "CellTracker",
+        "app_website": "https://celltracker.io",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "GPS"
+        ],
+        "icons": [
+            "icons/celltracker/ic_app.png",
+            "icons/celltracker/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "cerberus",
+        "app_name": "Cerberus",
+        "app_website": "https://www.cerberusapp.com",
+        "app_base": "unknown",
+        "dial": "23723787",
+        "names": [
+            "System Framework"
+        ],
+        "icons": [
+            "icons/cerberus/icon.png",
+            "icons/cerberus/android_logo.png"
+        ]
+    },
+    {
+        "app": "clevguard",
+        "app_name": "ClevGuard",
+        "app_website": "https://www.clevguard.com",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "System Update Service"
+        ],
+        "icons": [
+            "icons/clevguard/ic_bind_launcher_round.png",
+            "icons/clevguard/ic_bind_launcher.png",
+            "icons/clevguard/ic_launcher_round.png",
+            "icons/clevguard/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "cocopsy",
+        "app_name": "Cocospy",
+        "app_website": "https://cocospy.net",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "Servicio del sistema",
+            "Systemdienst",
+            "Системный Сервис",
+            "Serviço do Sistema",
+            "System Service",
+            "Servizio di sistema",
+            "システムサービス",
+            "Service système"
+        ],
+        "icons": [
+            "icons/cocospy/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "copy9",
+        "app_name": "Copy9",
+        "app_website": "https://copy9.com",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "System Service"
+        ],
+        "icons": [
+            "icons/copy9/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "easylogger",
+        "app_name": "EasyLogger",
+        "app_website": "https://logger.mobi",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "Android Networking"
+        ],
+        "icons": [
+            "icons/easylogger/icon.png"
+        ]
+    },
+    {
+        "app": "evaspy",
+        "app_name": "EvaSpy",
+        "app_website": "http://evaspy.com",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "Settings"
+        ],
+        "icons": [
+            "icons/evaspy/owkderciuf.png",
+            "icons/evaspy/ic_launcher_adaptive.png"
+        ]
+    },
+    {
+        "app": "ikeymonitor",
+        "app_name": "iKeyMonitor",
+        "app_website": "https://ikeymonitor.com",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "Dictionary Provider",
+            "Internet Service",
+            "डिक्‍शनरी प्रदाता",
+            "مقدم القاموس"
+        ],
+        "icons": [
+            "icons/ikeymonitor/ic_launcher"
+        ]
+    },
+    {
+        "app": "mobiletrackerfree",
+        "app_name": "MobileTrackerFree",
+        "app_website": "https://mobiletrackerfree.com",
+        "app_base": "unknown",
+        "dial": "*1234*",
+        "names": [
+            "Security Service"
+        ],
+        "icons": [
+            "icons/mobiletrackerfree/ic_app.png",
+            "icons/mobiletrackerfree/ic_logo_app.png"
+        ]
+    },
+    {
+        "app": "panspy",
+        "app_name": "PanSpy",
+        "app_website": "https://www.panspy.com",
+        "app_base": "unknown",
+        "dial": false,
+        "names": [
+            "System Update Core Service"
+        ],
+        "icons": [
+            "icons/panspy/ic_launcher_round.png",
+            "icons/panspy/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "thetruthspy",
+        "app_name": "TheTruthSpy",
+        "app_website": "https://www.thetruthspy.com",
+        "app_base": "unknown",
+        "dial": "#2013*",
+        "names": [
+            "Device Health"
+        ],
+        "icons": [
+            "icons/thetruthspy/ic_launcher_round.png",
+            "icons/thetruthspy/ic_launcher.png"
         ]
     }
 ]
