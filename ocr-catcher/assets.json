@@ -3,6 +3,8 @@
         "app": "aispyer",
         "app_name": "AISpyer",
         "app_website": "https://aispyer.com",
+        "dashbard": "https://my.aispyer.com",
+        "download_url": "unknown",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -17,10 +19,13 @@
         "app": "alltracker",
         "app_name": "All Tracker",
         "app_website": "https://alltracker.org",
+        "dashboard": "https://alltracker.org",
+        "download_url": "https://storage.googleapis.com/all-downloads/AllTracker-Installer-7.7.1.b.apk",
         "app_base": "unknown",
         "dial": false,
         "names": [
-            "SystemUpdater"
+            "SystemUpdater",
+            "System Security"
         ],
         "icons": [
             "icons/alltracker/ic_launcher_round.png",
@@ -31,6 +36,8 @@
         "app": "androidmonitor",
         "app_name": "Android Monitor",
         "app_website": "https://www.androidmonitor.com",
+        "dashboard": "https://my.androidmonitor.com/",
+        "download_url": "http://www.installam.com",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -42,6 +49,8 @@
         "app": "antitheftdroidweb",
         "app_name": "AntiTheft Droid WEB",
         "app_website": "http://www.antifurtodroid.com",
+        "download_url": "https://play.google.com/store/apps/details?id=br.com.maceda.android.antifurtow",
+        "dashboard": "http://antifurtodroid.com:6144",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -53,8 +62,10 @@
     },
     {
         "app": "aspy",
-        "app_name": "A-Spy",
-        "app_website": "http://www.a-spy.com",
+        "app_name": "AndroidSpy",
+        "app_website": "https://www.a-spy.com",
+        "download_url": "https://my.a-spy.com/as.apk",
+        "dashboard": "https://my.a-spy.com",
         "app_base": "unknown",
         "dial": "0000",
         "names": [
@@ -69,6 +80,8 @@
         "app": "blurspy",
         "app_name": "BlurSpy",
         "app_website": "https://www.blurspy.com",
+        "download_url": "unknwon",
+        "dashboard": "unknown",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -83,6 +96,8 @@
         "app": "catwatchful",
         "app_name": "CatWatchFul",
         "app_website": "https://www.catwatchful.com",
+        "download_url": "https://catwatchful.com/main/download/",
+        "dashboard": "https://catwatchful.online",
         "app_base": "unknown",
         "dial": "543210",
         "names": [
@@ -97,6 +112,8 @@
         "app": "celltracker",
         "app_name": "CellTracker",
         "app_website": "https://celltracker.io",
+        "dashboard": "https://dashboard.celltracker.io",
+        "download_url": "https://celltracker.io",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -111,6 +128,9 @@
         "app": "cerberus",
         "app_name": "Cerberus",
         "app_website": "https://www.cerberusapp.com",
+        "dashboard": "https://www.cerberusapp.com",
+        "download_url": "https://www.cerberusapp.com/downloads",
+        "bank_transaction_name": "CERBERUS ANDROID",
         "app_base": "unknown",
         "dial": "23723787",
         "names": [
@@ -125,6 +145,10 @@
         "app": "clevguard",
         "app_name": "ClevGuard",
         "app_website": "https://www.clevguard.com",
+        "dashboard": "https://panel.clevguard.com",
+        "download_url": "http://www.clevguard.net",
+        "related_websites": "https://www.imyfone.com",
+        "bank_transaction_name": "unknown",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -141,6 +165,9 @@
         "app": "cocopsy",
         "app_name": "Cocospy",
         "app_website": "https://cocospy.net",
+        "dashboard": "https://i.cocospy.com",
+        "download_url": "https://trackpro.vip",
+        "bank_transaction_name": "unknown",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -161,6 +188,8 @@
         "app": "copy9",
         "app_name": "Copy9",
         "app_website": "https://copy9.com",
+        "dashboard": "https://my.copy9.com",
+        "download_url": "https://d.copy9.com",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -174,6 +203,8 @@
         "app": "easylogger",
         "app_name": "EasyLogger",
         "app_website": "https://logger.mobi",
+        "dashboard": "https://account.logger.mobi",
+        "download_url": "https://logger.mobi/how-to-track-phone-calls/",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -187,6 +218,8 @@
         "app": "evaspy",
         "app_name": "EvaSpy",
         "app_website": "http://evaspy.com",
+        "dashboard": "https://login.evaspy.com",
+        "download_url": "https://evaapp.s3.amazonaws.com/eva.apk",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -201,6 +234,8 @@
         "app": "ikeymonitor",
         "app_name": "iKeyMonitor",
         "app_website": "https://ikeymonitor.com",
+        "dashboad": "https://emcpanel.com",
+        "download_url": "https://emcpanel.com/index.php?m=device&a=down_android&id=2",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -217,6 +252,8 @@
         "app": "mobiletrackerfree",
         "app_name": "MobileTrackerFree",
         "app_website": "https://mobiletrackerfree.com",
+        "dashboard": "https://mobiletrackerfree.com",
+        "download_url": "https://apk.mobile-tracker-free.info",
         "app_base": "unknown",
         "dial": "*1234*",
         "names": [
@@ -231,6 +268,8 @@
         "app": "panspy",
         "app_name": "PanSpy",
         "app_website": "https://www.panspy.com",
+        "dashboard": "https://console.panspy.com",
+        "download_url": "https://panspy.me",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -245,6 +284,8 @@
         "app": "thetruthspy",
         "app_name": "TheTruthSpy",
         "app_website": "https://www.thetruthspy.com",
+        "dashboard": "https://my.thetruthspy.com",
+        "download_url": "https://android.thetruthspy.com/download/",
         "app_base": "unknown",
         "dial": "#2013*",
         "names": [
@@ -253,6 +294,51 @@
         "icons": [
             "icons/thetruthspy/ic_launcher_round.png",
             "icons/thetruthspy/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "fonetracker",
+        "app_name": "FoneTracker",
+        "app_website": "https://www.fonetracker.com",
+        "download_url": "https://app.fonetracker.com/download/",
+        "app_base": "unknown",
+        "dial": "#2013*",
+        "names": [
+            "Device Health"
+        ],
+        "icons": [
+            "icons/fonetracker/ic_launcher_round.png",
+            "icons/fonetracker/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "myfonemate",
+        "app_name": "MyFoneMate",
+        "app_website": "https://www.myfonemate.com",
+        "download_url": "https://app.fonetracker.com/download/",
+        "app_base": "unknown",
+        "dial": "#2013*",
+        "names": [
+            "Device Health"
+        ],
+        "icons": [
+            "icons/fonetracker/ic_launcher_round.png",
+            "icons/fonetracker/ic_launcher.png"
+        ]
+    },
+    {
+        "app": "mspy",
+        "app_name": "MSpy",
+        "app_website": "https://www.mspy.com",
+        "download_url": "https://b55y.net/a",
+        "app_base": "mspy",
+        "dial": "#2013*",
+        "names": [
+            "Framework Update Service",
+            "Update service"
+        ],
+        "icons": [
+            "icons/mspy/ic_launcher.png"
         ]
     }
 ]

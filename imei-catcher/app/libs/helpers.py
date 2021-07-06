@@ -29,10 +29,10 @@ def check_imei(imei):
 
 def process_imei(imei):
     """
-        Process the IMEI by excuting check.py against it.
+        Process the IMEI by exceuting check.py against it.
     """
     if check_imei(imei):
-        sh = sp.Popen(["python3.8", "/app/check.py", imei],
+        sh = sp.Popen(["python3.8", "/app/connectors/copy9.py", imei],
                       stdout=sp.PIPE, stderr=sp.PIPE).communicate()
         res = json.loads(sh[0].decode('utf8'))
 
