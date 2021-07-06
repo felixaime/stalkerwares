@@ -44,12 +44,14 @@
         "dashboard": "https://my.androidmonitor.com/",
         "download_url": "http://www.installam.com",
         "android_name": "com.ibm.fb.ServiceMain",
-        "app_base": "unknown",
+        "app_base": "androidmonitor",
         "dial": false,
         "names": [
             "Standard Typing service"
         ],
-        "icons": [],
+        "icons": [
+            "icons/androidmonitor/ic_launcher.png"
+        ],
         "cnc": [
             "server.androidmonitor.com"
         ]
@@ -424,5 +426,42 @@
         "dial": "",
         "names": [],
         "icons": []
+    },
+    {
+        "app": "freeandroidspy",
+        "app_name": "FreeAndroidSpy",
+        "app_website": "https://freeandroidspy.com",
+        "download_url": "http://spysetup.com",
+        "app_base": "androidmonitor",
+        "dial": "",
+        "names": [
+            "Typing service"
+        ],
+        "icons": [
+            "icons/freeandroidspy/ic_launcher.png"
+        ],
+        "cnc": [
+            "server.freeandroidspy.com"
+        ]
+    },
+    {
+        "app": "highstermobile",
+        "app_name": "Highster Mobile",
+        "app_website": "https://highstermobile.com",
+        "download_url": "unknown",
+        "app_base": "highstermobile",
+        "dial": "unknown",
+        "android_name": "org.secure.smsgps",
+        "names": [
+            "Notification Service",
+            "Highster Mobile"
+        ],
+        "icons": [
+            "icons/highstermobile/ic_launcher.png"
+        ],
+        "cnc": [
+            "evt17.com",
+            "cellphoneservices.info"
+        ]
     }
 ]
