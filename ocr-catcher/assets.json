@@ -4,6 +4,7 @@
         "app_name": "AISpyer",
         "app_website": "https://aispyer.com",
         "dashbard": "https://my.aispyer.com",
+        "android_name": "com.aif.biz.main.AiApplication",
         "download_url": "unknown",
         "app_base": "unknown",
         "dial": false,
@@ -13,6 +14,9 @@
         "icons": [
             "icons/aispyer/ic_launcher_round.png",
             "icons/aispyer/ic_launcher.png"
+        ],
+        "cnc": [
+            "api.corn-cob.com"
         ]
     },
     {
@@ -21,6 +25,7 @@
         "app_website": "https://alltracker.org",
         "dashboard": "https://alltracker.org",
         "download_url": "https://storage.googleapis.com/all-downloads/AllTracker-Installer-7.7.1.b.apk",
+        "android_name": "city.russ.alltrackercorp.MainApplication",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -38,12 +43,16 @@
         "app_website": "https://www.androidmonitor.com",
         "dashboard": "https://my.androidmonitor.com/",
         "download_url": "http://www.installam.com",
+        "android_name": "com.ibm.fb.ServiceMain",
         "app_base": "unknown",
         "dial": false,
         "names": [
             "Standard Typing service"
         ],
-        "icons": []
+        "icons": [],
+        "cnc": [
+            "server.androidmonitor.com"
+        ]
     },
     {
         "app": "antitheftdroidweb",
@@ -51,6 +60,7 @@
         "app_website": "http://www.antifurtodroid.com",
         "download_url": "https://play.google.com/store/apps/details?id=br.com.maceda.android.antifurtow",
         "dashboard": "http://antifurtodroid.com:6144",
+        "android_name": "br.com.maceda.android.antifurtow.MyApplication",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -66,6 +76,7 @@
         "app_website": "https://www.a-spy.com",
         "download_url": "https://my.a-spy.com/as.apk",
         "dashboard": "https://my.a-spy.com",
+        "android_name": "com.sec.android.as.App",
         "app_base": "unknown",
         "dial": "0000",
         "names": [
@@ -74,12 +85,16 @@
         "icons": [
             "icons/aspy/ic_launcher_round.png",
             "icons/aspy/ic_launcher.png"
+        ],
+        "cnc": [
+            "app.antifuturodroid.com"
         ]
     },
     {
         "app": "blurspy",
         "app_name": "BlurSpy",
         "app_website": "https://www.blurspy.com",
+        "blurspy": "com.client.task.Other.MyApplication",
         "download_url": "unknwon",
         "dashboard": "unknown",
         "app_base": "unknown",
@@ -90,6 +105,9 @@
         "icons": [
             "icons/blurspy/ic_launcher_round.png",
             "icons/blurspy/ic_launcher.png"
+        ],
+        "cnc": [
+            "blurspy.com"
         ]
     },
     {
@@ -97,6 +115,7 @@
         "app_name": "CatWatchFul",
         "app_website": "https://www.catwatchful.com",
         "download_url": "https://catwatchful.com/main/download/",
+        "android_name": "com.jyotin.ct.MainActivity",
         "dashboard": "https://catwatchful.online",
         "app_base": "unknown",
         "dial": "543210",
@@ -106,6 +125,9 @@
         "icons": [
             "icons/catwatchful/ic_launcher_round.png",
             "icons/catwatchful/ic_launcher.png"
+        ],
+        "cnc": [
+            "catwatchful.com"
         ]
     },
     {
@@ -122,6 +144,9 @@
         "icons": [
             "icons/celltracker/ic_app.png",
             "icons/celltracker/ic_launcher.png"
+        ],
+        "cnc": [
+            "catwatchful.com"
         ]
     },
     {
@@ -131,6 +156,7 @@
         "dashboard": "https://www.cerberusapp.com",
         "download_url": "https://www.cerberusapp.com/downloads",
         "bank_transaction_name": "CERBERUS ANDROID",
+        "android_name": "com.lsdroid.cerberus.CerberusApplication",
         "app_base": "unknown",
         "dial": "23723787",
         "names": [
@@ -139,6 +165,9 @@
         "icons": [
             "icons/cerberus/icon.png",
             "icons/cerberus/android_logo.png"
+        ],
+        "cnc": [
+            "cerberusapp.com"
         ]
     },
     {
@@ -148,6 +177,7 @@
         "dashboard": "https://panel.clevguard.com",
         "download_url": "http://www.clevguard.net",
         "related_websites": "https://www.imyfone.com",
+        "android_name": "com.kids.pro.ProApps",
         "bank_transaction_name": "unknown",
         "app_base": "unknown",
         "dial": false,
@@ -159,6 +189,9 @@
             "icons/clevguard/ic_bind_launcher.png",
             "icons/clevguard/ic_launcher_round.png",
             "icons/clevguard/ic_launcher.png"
+        ],
+        "cnc": [
+            "api.clevguard.com"
         ]
     },
     {
@@ -181,7 +214,10 @@
             "Service système"
         ],
         "icons": [
-            "icons/cocospy/ic_launcher.png"
+            "icons/cocospy/ic_launcher.pn"
+        ],
+        "cnc": [
+            "cocospy.com"
         ]
     },
     {
@@ -190,13 +226,18 @@
         "app_website": "https://copy9.com",
         "dashboard": "https://my.copy9.com",
         "download_url": "https://d.copy9.com",
-        "app_base": "unknown",
+        "android_name": "com.ispyoo.common.monitor.AndroidMonitorApplication",
+        "app_base": "ispyoo",
         "dial": false,
         "names": [
             "System Service"
         ],
         "icons": [
             "icons/copy9/ic_launcher.png"
+        ],
+        "cnc": [
+            "protocol-a610.copy9.com",
+            "ambientrecord.copy9.com"
         ]
     },
     {
@@ -205,6 +246,7 @@
         "app_website": "https://logger.mobi",
         "dashboard": "https://account.logger.mobi",
         "download_url": "https://logger.mobi/how-to-track-phone-calls/",
+        "android_name": "app.ELogger.AppGlobal",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -212,6 +254,10 @@
         ],
         "icons": [
             "icons/easylogger/icon.png"
+        ],
+        "cnc": [
+            "97.logger.mobi",
+            "account.logger.mobi"
         ]
     },
     {
@@ -220,15 +266,18 @@
         "app_website": "http://evaspy.com",
         "dashboard": "https://login.evaspy.com",
         "download_url": "https://evaapp.s3.amazonaws.com/eva.apk",
+        "android_name": "com.oiiykysf.wxwsfgyb.IqbdJBLhKO",
         "app_base": "unknown",
         "dial": false,
         "names": [
-            "Settings"
+            "Settings",
+            "System Settings"
         ],
         "icons": [
             "icons/evaspy/owkderciuf.png",
             "icons/evaspy/ic_launcher_adaptive.png"
-        ]
+        ],
+        "cnc": []
     },
     {
         "app": "ikeymonitor",
@@ -246,6 +295,9 @@
         ],
         "icons": [
             "icons/ikeymonitor/ic_launcher"
+        ],
+        "cnc": [
+            "ikm.awsapi.io"
         ]
     },
     {
@@ -254,6 +306,7 @@
         "app_website": "https://mobiletrackerfree.com",
         "dashboard": "https://mobiletrackerfree.com",
         "download_url": "https://apk.mobile-tracker-free.info",
+        "android_name": "com.app.activity.MyApp"
         "app_base": "unknown",
         "dial": "*1234*",
         "names": [
@@ -270,6 +323,7 @@
         "app_website": "https://www.panspy.com",
         "dashboard": "https://console.panspy.com",
         "download_url": "https://panspy.me",
+        "android_name": "com.panspy.android.panSpyApplication",
         "app_base": "unknown",
         "dial": false,
         "names": [
@@ -286,6 +340,7 @@
         "app_website": "https://www.thetruthspy.com",
         "dashboard": "https://my.thetruthspy.com",
         "download_url": "https://android.thetruthspy.com/download/",
+        "android_name": "com.systemservice.common.groupService.UIAppController",
         "app_base": "unknown",
         "dial": "#2013*",
         "names": [
@@ -332,6 +387,7 @@
         "app_website": "https://www.mspy.com",
         "download_url": "https://b55y.net/a",
         "app_base": "mspy",
+        "android_name": "com.droid.mob.display2.MApplication",
         "dial": "#2013*",
         "names": [
             "Framework Update Service",
@@ -340,5 +396,33 @@
         "icons": [
             "icons/mspy/ic_launcher.png"
         ]
+    },
+    {
+        "app": "flexispy",
+        "app_name": "FlexiSpy",
+        "app_website": "https://www.flexispy.com",
+        "download_url": "https://djp.bz",
+        "app_base": "flexispy",
+        "android_name": "com.fp.ApplicationInstance",
+        "dial": "",
+        "cnc": [
+            "push.mobilefonex.com",
+            "client.mobilefonex.com"
+        ],
+        "names": [
+            "Sync Services",
+            "Accessibility"
+        ],
+        "icons": []
+    },
+    {
+        "app": "spyzie",
+        "app_name": "SpyZie",
+        "app_website": "https://www.spyzie.com",
+        "download_url": "https://my.spyzie.com/install.apk",
+        "app_base": "unknown",
+        "dial": "",
+        "names": [],
+        "icons": []
     }
 ]
