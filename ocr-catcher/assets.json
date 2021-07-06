@@ -306,7 +306,7 @@
         "app_website": "https://mobiletrackerfree.com",
         "dashboard": "https://mobiletrackerfree.com",
         "download_url": "https://apk.mobile-tracker-free.info",
-        "android_name": "com.app.activity.MyApp"
+        "android_name": "com.app.activity.MyApp",
         "app_base": "unknown",
         "dial": "*1234*",
         "names": [
