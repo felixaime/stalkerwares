@@ -166,7 +166,7 @@
         ],
         "icons": [
             "icons/cerberus/icon.png",
-            "icons/cerberus/android_logo.png"
+            "icons/cerberus/icon2.png"
         ],
         "cnc": [
             "cerberusapp.com"
@@ -216,7 +216,7 @@
             "Service système"
         ],
         "icons": [
-            "icons/cocospy/ic_launcher.pn"
+            "icons/cocospy/ic_launcher.png"
         ],
         "cnc": [
             "cocospy.com"
@@ -296,7 +296,7 @@
             "مقدم القاموس"
         ],
         "icons": [
-            "icons/ikeymonitor/ic_launcher"
+            "icons/ikeymonitor/ic_launcher.png"
         ],
         "cnc": [
             "ikm.awsapi.io"
@@ -461,7 +461,8 @@
         ],
         "cnc": [
             "evt17.com",
-            "cellphoneservices.info"
+            "cellphoneservices.info",
+            "ddiutilities.com"
         ]
     }
 ]
