@@ -1,6 +1,6 @@
-# Stalkerwares
+Just a repo with few researches on stalkerware. Nothing "serious".
 
-# GUI Names (that we can see in Accessbility) 
+#### GUI Names (that we can see in Accessbility) 
 
 | Tables   |      Are      |
 |----------|:-------------:| 
